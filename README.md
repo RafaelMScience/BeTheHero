@@ -1,6 +1,8 @@
 <h4 align="center">
 <img src="https://github.com/RafaelMScience/BeTheHero/blob/master/logo%403x.png" width="250px" /><br>
  <b>Seja um verdadeiro Heroi!</b>
+ 
+ <img src="https://github.com/RafaelMScience/BeTheHero/blob/master/preview%20(1).jpg" width="250px"/>
 </h4>
 <p align="center">
   <a href="https://rocketseat.com.br">
