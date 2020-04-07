@@ -21,7 +21,7 @@
 
 ## BACK END
 ### :rocket: Tecnologias usadas
-Este projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [ExpressJs](https://expressjs.com/pt-br/)
@@ -34,23 +34,23 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ### :muscle: Projeto
 
-<b>Be the Hero</b> é um projeto que visa ajudar, de maneira <b>financeira</b> uma instituição de caridade, ajudando a mesma se manter. 
+<b>Be the Hero</b> is a project that aims to help, in a way<b>financial</b>a charity, helping it to maintain itself.
 
-### :mortar_board: Quem ministrou?
+### :mortar_board: Who ministered?
 
-A semana foi ministrada pelo <b>Pelo</b> [Diego Fernandes](https://github.com/diego3g)
+The week was given by the [Diego Fernandes](https://github.com/diego3g)
 
 ### :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the archive [LICENSE](LICENSE.md) para mais detalhes.
 
 ## FRONT END (WEB)
 ### :rocket: Tecnologias usadas
-Este projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 - [React](https://pt-br.reactjs.org/)
 
 
 ## FRONT END (MOBILE)
 ### :rocket: Tecnologias usadas
-Este projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 - [Expo](https://expo.io/)
